@@ -1,0 +1,8 @@
+Trusted:
+f20d0ccf-289f-43bc-8590-62315cdf3fcd
+arn:aws:sso::790811080121:application/ssoins-831630a0e973b57b/apl-6c10f88e28e97249
+arn:aws:sso::790811080121:application/ssoins-831630a0e973b57b/apl-cbc2e873f604c0dd
+untrusted
+e05e4e3a-ce7b-4807-9425-cf396541b0db
+arn:aws:sso::790811080121:application/ssoins-831630a0e973b57b/apl-4f3320ac18953533
+arn:aws:sso::790811080121:application/ssoins-831630a0e973b57b/apl-b8f2d766b8fcdcf5
